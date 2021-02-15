@@ -16,8 +16,8 @@
         "user_id" : "577cf6ef2b9920002cef0337"
       },
       "certificate" : {
-        "key": "../certificates/matchminer.key",
-        "cert": "../certificates/matchminer.crt"
+        "key": "/certificates/matchminer.key",
+        "cert": "/certificates/matchminer.crt"
       },
       "sessionTimeout": {
         "idleAllowed": 2700,
@@ -55,8 +55,8 @@
       },
       "samlAuthentication": true,
       "certificate" : {
-        "key": "../certificates/matchminer.key",
-        "cert": "../certificates/matchminer.crt"
+        "key": "/certificates/matchminer.key",
+        "cert": "/certificates/matchminer.crt"
       },
       "sessionTimeout": {
         "idleAllowed": 2700,
@@ -94,8 +94,8 @@
       },
       "samlAuthentication": true,
       "certificate" : {
-        "key": "../certificates/matchminer.key",
-        "cert": "../certificates/matchminer.crt"
+        "key": "/certificates/matchminer.key",
+        "cert": "/certificates/matchminer.crt"
       },
       "sessionTimeout": {
         "idleAllowed": 2700,
